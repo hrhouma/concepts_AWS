@@ -1,6 +1,6 @@
 # 1 - Exemple 1 - Disponibilité et la durabilité en termes de "neufs"
 
-Voici un petit exercice pour comprendre ces concepts, notamment dans le contexte d'AWS.
+- Exercice pour comprendre ces concepts, notamment dans le contexte d'AWS.
 
 ### 1. Calcul de la Disponibilité (SLA)
 La disponibilité se mesure généralement en pourcentage de temps où un service est opérationnel et accessible. Par exemple, une disponibilité de "11 neufs" signifie 99.999999999% de disponibilité.
@@ -31,7 +31,7 @@ Si vous avez 1 million de fichiers :
 - Ces calculs sont importants pour comprendre les implications des SLAs et garantir les exigences de qualité de service pour vos applications sur AWS.
 
 
-Pour un service offrant une durabilité de 99% pour vos fichiers, voici un exercice adapté à cette condition, en utilisant 1000 objets stockés.
+# Pour un service offrant une durabilité de 99% pour vos fichiers, avec 1000 objets stockés.
 
 # 2 - Exemple 2 -  Durabilité avec 1000 Objets Stockés et Durabilité de 99%
 
@@ -109,10 +109,8 @@ Une entreprise utilise un service de stockage cloud qui offre une durabilité de
 
 2. **Proposez des mesures de mitigation pour réduire les risques associés à ces indisponibilités et pertes de fichiers.**
 
-- Cet exercice est conçu pour évaluer la capacité des étudiants à analyser et à gérer les risques liés à la disponibilité et à la durabilité des services dans un environnement cloud, en tenant compte des impacts opérationnels et stratégiques pour l'entreprise.
-  
-- Ces exercices sont conçus pour tester la compréhension de la disponibilité et de la durabilité dans les SLA et les implications pratiques pour la gestion des services cloud.
 
+  
 
 
 
