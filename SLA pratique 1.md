@@ -68,8 +68,8 @@ Avec la perte de 10 fichiers par an sur 1000, l'impact sur une petite entreprise
 Supposons qu'une entreprise ait un SLA qui spécifie une disponibilité de 99.99% pour son service d'hébergement web. 
 
 1. Calculez le temps d'indisponibilité maximal autorisé par an pour ce service en secondes.
-2. Calculez le temps d'indisponibilité maximal autorisé par an pour ce service en minutes.
-3. Calculez le temps d'indisponibilité maximal autorisé par an pour ce service par année.
+2. Calculez le temps d'indisponibilité maximal autorisé par mois pour ce service en minutes.
+3. Calculez le temps d'indisponibilité maximal autorisé par semaines pour ce service en minutes.
 4. Si le service était indisponible pendant 2 minutes en un mois, a-t-il respecté son SLA? Justifiez votre réponse.
 
 ## Exercice 2 : Calcul de Durabilité
